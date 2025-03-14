@@ -52,3 +52,15 @@ ul {
   gap: 8px;
   padding: 0px;
 }
+
+.space-1 ,.space-2 {
+  display: flex;
+  gap: 8px;
+}
+.space-1 {
+  margin-right: auto;
+}
+
+.space-2 {
+  margin-left: auto;
+}
