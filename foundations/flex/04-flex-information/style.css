@@ -29,5 +29,12 @@ img {
 }
 
 .content {
-  display:flex
+  display:flex;
+  justify-content: center;
+}
+
+.item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
