@@ -38,3 +38,7 @@ input {
   justify-content: space-between;
   align-items: end;
 }
+
+ul {
+  list-style-type: none;
+}
