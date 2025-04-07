@@ -51,4 +51,9 @@ ul {
   gap: 16px;
 }
 
+a {
+  color: rgb(85, 85, 85);
+  text-decoration: none;
+}
+
 
